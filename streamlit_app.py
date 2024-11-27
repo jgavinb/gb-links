@@ -9,9 +9,9 @@ col2.image(Image.open('dp.png'))
 
 st.header('Gavin Brumfield, M.S. in Analytics Candidate')
 
-st.info('Inquisitive mind, fueled by a passion for uncovering patterns and making
+st.info(''Inquisitive mind, fueled by a passion for uncovering patterns and making
 data-driven decisions. Leverages a diagnostic mindset and analytical rigor to navigate complex challenges,
-delivering actionable insights that enhance outcomes and drive strategic initiatives.')
+delivering actionable insights that enhance outcomes and drive strategic initiatives.'')
 
 icon_size = 20
 
