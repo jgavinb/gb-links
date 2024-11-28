@@ -13,5 +13,5 @@ st.info('Inquisitive mind, fueled by a passion for uncovering patterns and makin
 
 icon_size = 20
 
-st_button(':clipboard:', 'https://gavinb.streamlit.app/', 'View my resume', icon_size)
+st_button(:clipboard:, 'https://gavinb.streamlit.app/', 'View my resume', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/gavinbrumfield/', 'Follow me on LinkedIn', icon_size)
